@@ -6,18 +6,18 @@ labels: enhancement
 assignees: ""
 ---
 
-**The Issue**
+## The Issue
 
 Name of your issue
 
-**Relevant Current Coolness**
+## Relevant Current Coolness
 
 If applicable, any current coolness.
 
-**OPTIONAL: Suggested Issue**
+## OPTIONAL: Suggested Issue
 
 Features of your issue (wow!)
 
-**Checklist**
+## Checklist
 
 - [ ] I am coolest
