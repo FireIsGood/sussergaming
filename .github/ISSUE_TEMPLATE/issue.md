@@ -2,7 +2,7 @@
 name: Cool Issue
 about: The coolest issue
 title: "Cool Issue: "
-labels: enhancement
+labels: bug
 assignees: ""
 ---
 
